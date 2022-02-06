@@ -6,13 +6,13 @@
 	<parent>
 		<artifactId>maven-enterprise-application</artifactId>
 		<groupId>com.mt</groupId>
-		<version>1.0-SNAPSHOT</version>
+		<version>1.0</version>
 	</parent>
 
 	<groupId>com.mt</groupId>
 	<artifactId>MavenEnterpriseApp-web</artifactId>
 	<packaging>war</packaging>
-	<version>1.0-SNAPSHOT</version>
+	<version>1.0</version>
 
 	<name>MavenEnterpriseApplication</name>
 	<url>http://mithuntechnologies.com</url>
@@ -96,7 +96,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://localhost:8085/mithuntechnologies/repository/flipkart-releases/</url>
+	      <url>http://13.126.88.190:8081/repository/facebook-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
